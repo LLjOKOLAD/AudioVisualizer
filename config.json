@@ -1,0 +1,12 @@
+{
+    "device": 7,
+    "bars": 100,
+    "scale": 0.5,
+    "auto_scale": false,
+    "color": "\u0420\u0430\u0434\u0443\u0436\u043d\u044b\u0435",
+    "decay_factor": 0.1,
+    "border_radius": 14,
+    "use_caps": false,
+    "cap_decay_factor": 0.9,
+    "debug_output": false
+}
