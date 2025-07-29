@@ -4,12 +4,12 @@
 
 ## Требования
 - Python 3.8+
-- Микрофон (например, HyperX Cloud Core Wireless)
+- Микрофон 
 
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/LLjOKOLADKA/AudioVisualizer.git
+   git clone https://github.com/LLjOKOLAD/AudioVisualizer.git
    cd AudioVisualizer
    ```
 2. Создайте и активируйте виртуальное окружение:
